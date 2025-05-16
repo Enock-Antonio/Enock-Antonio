@@ -9,5 +9,5 @@ Turning data into solutions through AI/ML. Let's connect!
 - 🤔 **Help with**: MLOps optimization & Spark workflows
 - 💬 **Ask me**: Data preprocessing, Python/R, neural net debugging
 - 📫 **Reach me**:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/enockantonio) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/enockantonio)
   📧 [email](mailto:enockantonioo@outlook.com) 
