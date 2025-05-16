@@ -8,4 +8,6 @@ Turning data into solutions through AI/ML. Let's connect!
 - 👯 **Collab on**: AI-for-good projects/Kaggle competitions
 - 🤔 **Help with**: MLOps optimization & Spark workflows
 - 💬 **Ask me**: Data preprocessing, Python/R, neural net debugging
-- 📫 **Reach me**:  
+- 📫 **Reach me**:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](link)  
+  📧 [email](mailto:enockantonioo@outlook.com) 
